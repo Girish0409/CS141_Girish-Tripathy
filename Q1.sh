@@ -5,6 +5,6 @@ read name
 echo "making a folder named $name and a file inside it named $name" 
 mkdir $name
 cd $name
-touch $name.txt
+touch $name.cpp
 
 echo "done sir!! :)"
