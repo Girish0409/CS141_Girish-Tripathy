@@ -19,6 +19,8 @@ cout << " The summation of two numbers are " <<  sum  << endl ;
 cout << " The substraction of two numbers are " <<  substract  << endl ;
 cout << " The product of two division are " <<  Product  <<  endl ;
 cout << " The remainder of two numbers are " <<  remainder << endl ;
+cout << " The division of two numbers are " << division << endl ;
+  
 return 0;
 
 }
